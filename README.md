@@ -6,8 +6,8 @@ This repository focuses on practical statistical techniques for ML using theory,
 - [ ] Introduction to Statistics
 - [ ] Statistics vs Machine Learning
 - [ ] Examples of Statistics in Machine Learning
-- [x] Gaussian and Summary Stats.ipynb
-- [x] Simple Data Visualization.ipynb
+- Gaussian and Summary Stats.ipynb - ✅
+- Simple Data Visualization.ipynb - ✅
 - [ ] Random Numbers
 - [ ] Law of Large Numbers
 - [ ] Central Limit Theorem
