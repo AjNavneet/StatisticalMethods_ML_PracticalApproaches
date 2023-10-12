@@ -8,7 +8,7 @@ This repository focuses on practical statistical techniques for ML using theory,
 3. Examples of Statistics in Machine Learning
 4. Gaussian and Summary Stats -> ✅
 5. Simple Data Visualization -> ✅
-6. Random Numbers
+6. Random Numbers -> ✅
 7. Law of Large Numbers
 8. Central Limit Theorem
 9. Statistical Hypothesis Testing
