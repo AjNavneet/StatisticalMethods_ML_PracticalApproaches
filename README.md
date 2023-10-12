@@ -3,9 +3,9 @@ This repository focuses on practical statistical techniques for ML using theory,
 
 ### Planned topics
 
-1. Introduction to Statistics
-2. Statistics vs Machine Learning
-3. Examples of Statistics in Machine Learning
+1. Introduction to Statistics -> ✅
+2. Statistics vs Machine Learning -> ✅
+3. Examples of Statistics in Machine Learning -> ✅
 4. Gaussian and Summary Stats -> ✅
 5. Simple Data Visualization -> ✅
 6. Random Numbers -> ✅
