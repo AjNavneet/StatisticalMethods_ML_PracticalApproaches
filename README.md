@@ -1,7 +1,7 @@
 # statistical_methods_ML
 This repository focuses on practical statistical techniques for ML using theory, abstract topics and APIs.
 
-### Planned topics
+### To-Do Topics
 
 1. Introduction to Statistics -> ✅
 2. Statistics vs Machine Learning -> ✅
