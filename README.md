@@ -13,10 +13,10 @@ This repository focuses on practical statistical techniques for ML using theory,
 7. Law of Large Numbers -> ✅
 8. Central Limit Theorem -> ✅
   ---------------------------------------------------
-9. Statistical Hypothesis Testing
-10. Statistical Distributions
-11. Critical Values
-12. Covariance and Correlation
+9. Statistical Hypothesis Testing -> ✅
+10. Statistical Distributions -> ✅
+11. Critical Values -> ✅
+12. Covariance and Correlation -> ✅
 13. Significance Tests
 14. Effect Size
 15. Statistical Power
