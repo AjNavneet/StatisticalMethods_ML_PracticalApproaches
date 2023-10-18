@@ -17,9 +17,10 @@ This repository focuses on practical statistical techniques for ML using theory,
 10. Statistical Distributions -> ✅
 11. Critical Values -> ✅
 12. Covariance and Correlation -> ✅
-13. Significance Tests
-14. Effect Size
-15. Statistical Power
+13. Significance Tests -> ✅
+14. Effect Size -> ✅
+15. Statistical Power -> ✅
+  ---------------------------------------------------
 16. Introduction to Resampling
 17. Estimation with Bootstrap
 18. Estimation with Cross-Validation
